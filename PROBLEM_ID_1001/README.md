@@ -1,7 +1,6 @@
-<center>
-  URI Online Judge | PROBLEM ID 1001
-  <h1>Extremamente Básico</h1>
-</center><hr>
+<p align="center">URI Online Judge | PROBLEM ID 1001</p>
+<h1 align="center">Extremamente Básico</h1>
+<hr>
 
 <p>
   Leia 2 valores inteiros e armazene-os nas variáveis A e B. Efetue a soma de A e B atribuindo o seu resultado na variável X. Imprima X conforme exemplo apresentado abaixo. Não apresente mensagem alguma além daquilo que está sendo especificado e não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".

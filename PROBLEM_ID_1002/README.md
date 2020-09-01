@@ -1,7 +1,6 @@
-<center>
-  URI Online Judge | PROBLEM ID 1001
-  <h1>Extremamente Básico</h1>
-</center><hr>
+<p align="center">URI Online Judge | PROBLEM ID 1002</p>
+<h1 align="center">Área do Círculo</h1>
+<hr>
 
 <p>
   A fórmula para calcular a área de uma circunferência é: area = π . raio2. Considerando para este problema que π = 3.14159:
